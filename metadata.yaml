@@ -1,5 +1,8 @@
 _repo: The-Fortunes-of-Perkin-Warbeck-a-romance_66749
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66749-h/images/warbeck2_cover.jpg
 creator:
   author:
     agent_name: Shelley, Mary Wollstonecraft
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/61
     wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66749#The-Fortunes-of-Perkin-Warbeck-a-romance
 gutenberg_issued: '2021-11-16'
 identifiers:
   gutenberg: '66749'
